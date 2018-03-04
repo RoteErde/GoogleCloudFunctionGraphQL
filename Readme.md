@@ -25,11 +25,7 @@ You can query a simple one like:
 or query a user
 
 ```query{
-  user(index:1) {
-    name
-    rank
-    number
-  }
+  user(index:1) 
 }```
 
 
