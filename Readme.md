@@ -33,8 +33,7 @@ or query a user
 }```
 
 
-```
-mutation{auth(
+```mutation{auth(
   user:"gfg"
   password:"dff"
   
