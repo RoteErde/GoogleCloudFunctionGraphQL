@@ -22,7 +22,7 @@ You can query a simple one like:
 ```{users}```
 
 
-or query a user
+or query a user, and also apply a mutation
 ```
 query{
   user(index:1) 
