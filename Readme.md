@@ -31,3 +31,11 @@ or query a user
     number
   }
 }```
+
+
+```
+mutation{auth(
+  user:"gfg"
+  password:"dff"
+  
+) }```
