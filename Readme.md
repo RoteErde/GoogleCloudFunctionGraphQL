@@ -23,13 +23,12 @@ You can query a simple one like:
 
 
 or query a user
-```
-query{
+```query{
   user(index:1) 
-}```
+}
 
 
-```mutation{auth(
+mutation{auth(
   user:"gfg"
   password:"dff"
   
