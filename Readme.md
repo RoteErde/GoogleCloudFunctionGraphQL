@@ -23,8 +23,8 @@ You can query a simple one like:
 
 
 or query a user
-
-```query{
+```
+query{
   user(index:1) 
 }```
 
