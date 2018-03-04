@@ -19,7 +19,7 @@ You will need:
 
 
 You can query a simple one like:
-```{users}```
+```query{users}```
 
 
 or query a user, and also apply a mutation
