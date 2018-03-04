@@ -2,10 +2,9 @@
 
 
 
-An example to build a GraphQL for Google Cloud Function
 
 
-his example is made to run in the Google Cloud Function Emulator:
+An example made to run on Google Cloud Function Emulator:
 
 You will need:
 
